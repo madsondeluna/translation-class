@@ -646,7 +646,7 @@ def conclusion():
     
     print("\n" + "═" * 80)
     type_text("\n[***] Thank you for learning about Protein Translation! [***]")
-    type_text("\nCreated for: UFMG - Genomics, Transcriptomics and Proteomics Studies")
+    type_text("\nCreated for: Madson Aragão @ UFMG")
     print()
 
 def main():
