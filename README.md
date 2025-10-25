@@ -1,8 +1,8 @@
 # Protein Translation and Translation Control
 
-## Course Overview
+## Class Overview
 
-This repository contains educational materials for the course **"Estudos de Genômica Transcriptômica e Proteômica" (Genomics, Transcriptomics and Proteomics Studies)** at the Federal University of Minas Gerais (UFMG), focusing on protein translation mechanisms, regulation, and clinical implications.
+This repository contains educational materials focusing on protein translation mechanisms, regulation, and clinical implications.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This repository contains educational materials for the course **"Estudos de Gen�
 - [Research Techniques](#research-techniques)
 - [Therapeutic Strategies](#therapeutic-strategies)
 - [Recommended Articles](#recommended-articles)
-- [Course Materials](#course-materials)
+- [Class Materials](#class-materials)
 
 ## Introduction
 
@@ -296,7 +296,7 @@ The mTOR pathway is a critical regulator of translation:
    - Song et al. (2021) - "The regulation of protein translation and its implications for cancer"
    - [Nature Open Access](https://www.nature.com/articles/s41392-020-00444-9)
 
-## Course Materials
+## Class Materials
 
 ### Access to Presentation Slides
 
@@ -305,10 +305,10 @@ The original presentation slides are available in this repository:
 - **Content**: Comprehensive slides covering all topics presented in this README
 - **Language**: Portuguese with scientific terminology in English
 
-### Course Information
+### Class Information
 
 - **Institution**: Federal University of Minas Gerais (UFMG)
-- **Course**: Estudos de Genômica Transcriptômica e Proteômica (EGTP)
+- **Class**: Estudos de Genômica Transcriptômica e Proteômica (EGTP)
 - **Seminar Team**: Alisson Clementino da Silva, Leonardo Henrique da Silva, and Madson A. de Luna Aragão
 
 
@@ -330,7 +330,7 @@ The deregulation of protein translation leads to abnormal protein expression, al
 
 ## Contact and Contributions
 
-For questions about this course material or to contribute additional resources, please contact the course instructors at UFMG.
+For questions about this class material or to contribute additional resources, please contact the class instructors at UFMG.
 
 ## License
 
@@ -338,7 +338,5 @@ This educational material is provided for academic purposes. Please cite the ori
 
 ---
 
-**Last Updated**: October 2025
-
-**Note**: This README was created to facilitate access to protein translation course materials for students, providing comprehensive coverage of the subject in English while maintaining references to the original Portuguese presentation materials.
+> This README was created to facilitate access to protein translation class materials for students, providing comprehensive coverage of the subject in English while maintaining references to the original Portuguese presentation materials.
 
