@@ -226,7 +226,6 @@ def elongation_phase():
     type_text("This cycle repeats for every amino acid added to the protein.")
     time.sleep(1)
     
-    # Codon table for reference
     print("\n" + "─" * 80)
     type_text("\nReminder: The Genetic Code", delay=0.02)
     print("""
@@ -240,7 +239,6 @@ def elongation_phase():
     """)
     time.sleep(1)
     
-    # Show elongation cycle
     amino_acids = ["Met", "Phe", "Ala", "Gly"]
     codons = ["AUG", "UUU", "GCU", "GGU"]
     
@@ -249,7 +247,6 @@ def elongation_phase():
         type_text(f"\n[CYCLE] ELONGATION CYCLE {i+1}: Adding {aa}", delay=0.02)
         animate_dots(1)
         
-        # Step 1: Aminoacyl-tRNA entry
         print("\n" + "─" * 80)
         type_text("Step 1: Aminoacyl-tRNA enters the A site", delay=0.02)
         time.sleep(0.5)
@@ -271,7 +268,6 @@ def elongation_phase():
         type_text(f"[✓] {aa}-tRNA binds to the A (Aminoacyl) site")
         time.sleep(1)
         
-        # Step 2: Peptide bond formation
         print("\n" + "─" * 80)
         type_text("Step 2: Peptide bond formation", delay=0.02)
         time.sleep(0.5)
@@ -291,7 +287,6 @@ def elongation_phase():
         type_text(f"[✓] Growing peptide chain now attached to {aa}")
         time.sleep(1)
         
-        # Step 3: Translocation
         print("\n" + "─" * 80)
         type_text("Step 3: Ribosome translocation", delay=0.02)
         time.sleep(0.5)
