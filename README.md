@@ -17,6 +17,7 @@ This repository contains educational materials focusing on protein translation m
 - [Therapeutic Strategies](#therapeutic-strategies)
 - [Recommended Articles](#recommended-articles)
 - [Class Materials](#class-materials)
+- [Interactive scripts](#interactive-educational-scripts)
 
 ## Introduction
 
@@ -32,6 +33,55 @@ The central dogma of molecular biology describes the flow of genetic information
 **Flow**: DNA → RNA → PROTEIN (Replication → Transcription → Translation)
 
 *Note*: Reverse transcription (RNA → cDNA) also occurs in certain biological contexts.
+
+## Interactive educational scripts
+
+Students can use the interactive scripts included in this repository to explore, step-by-step, the full translation process from mRNA to protein. These scripts run in the terminal and present a guided, interactive tutorial with explanatory screens, simple ASCII diagrams, and small animations. At each step the program waits for the user to press ENTER to continue.
+
+Main scripts:
+
+- `mrna2protein.py` — interactive tutorial in English
+- `domrnaparaproteina.py` — interactive tutorial in Portuguese (available as an alternative)
+
+Usage:
+
+Run the English interactive tutorial:
+
+```bash
+python3 mrna2protein.py
+```
+
+Run the Portuguese interactive tutorial (alternative):
+
+```bash
+python3 domrnaparaproteina.py
+```
+
+What to expect: the program prints explanatory screens and small ASCII diagrams. Press ENTER to continue between screens, and use Ctrl+C to exit the tutorial at any time.
+
+Screenshots (English tutorial):
+
+![mrna2protein running — screen 1](<img-scripts/Screenshot 2025-10-25 at 00.38.19.png>)
+
+*English tutorial — initiation & central dogma screen.*
+
+![mrna2protein running — screen 2](<img-scripts/Screenshot 2025-10-25 at 00.38.58.png>)
+
+*English tutorial — elongation / peptide growth screen.*
+
+Configurable option: typing animation speed
+
+Both scripts implement a simple typing animation for explanatory text. The functions are:
+
+- `type_text(text, delay=0.03)` in `mrna2protein.py`
+- `digitar_texto(texto, atraso=0.03)` in `domrnaparaproteina.py`
+
+How to change the speed:
+
+- Edit the default value of the `delay` / `atraso` parameter in the function definition (e.g. `0.01` for faster, `0.06` for slower), or
+- Pass a different value when calling the function: `type_text("Hello", delay=0.01)`.
+
+Note: The scripts are interactive and do not currently provide a command-line flag to change this option; if you prefer, I can add a `--speed` flag to control typing speed at runtime.
 
 ## Translation Machinery
 
@@ -339,4 +389,5 @@ This educational material is provided for academic purposes. Please cite the ori
 ---
 
 > This README was created to facilitate access to protein translation class materials for students, providing comprehensive coverage of the subject in English while maintaining references to the original Portuguese presentation materials.
+
 
