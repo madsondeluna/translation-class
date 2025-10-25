@@ -301,7 +301,7 @@ The mTOR pathway is a critical regulator of translation:
 ### Access to Presentation Slides
 
 The original presentation slides are available in this repository:
-- **File**: slides/Class.pdf
+- **File**: [slides/class.pdf](https://github.com/madsondeluna/translation-class/tree/main/slides)
 - **Content**: Comprehensive slides covering all topics presented in this README
 - **Language**: Portuguese with scientific terminology in English
 
