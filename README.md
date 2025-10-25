@@ -59,15 +59,21 @@ python3 domrnaparaproteina.py
 
 What to expect: the program prints explanatory screens and small ASCII diagrams. Press ENTER to continue between screens, and use Ctrl+C to exit the tutorial at any time.
 
-Screenshots (English tutorial):
+Screenshots:
+
+<br>
+
+> Initiation & central dogma screen
 
 ![mrna2protein running — screen 1](<img-scripts/Screenshot 2025-10-25 at 00.38.19.png>)
 
-*English tutorial — initiation & central dogma screen.*
+<br>
+
+> Elongation / peptide growth screen 
 
 ![mrna2protein running — screen 2](<img-scripts/Screenshot 2025-10-25 at 00.38.58.png>)
 
-*English tutorial — elongation / peptide growth screen.*
+<br   >
 
 Configurable option: typing animation speed
 
