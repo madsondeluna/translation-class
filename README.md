@@ -330,7 +330,7 @@ The deregulation of protein translation leads to abnormal protein expression, al
 
 ## Contact and Contributions
 
-For questions about this class material or to contribute additional resources, please contact the class instructors at UFMG.
+For questions about this class material or to contribute additional resources, please reach [madsondeluna@gmail.com](https://madsondeluna.github.io/#contact)
 
 ## License
 
